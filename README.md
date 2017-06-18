@@ -6,7 +6,6 @@ for more flexible chatbot implementations, like RNN. The corpora may be useful t
 exploring conversation patterns on image boards, as each list constitutes a complete conversation (albeit
 between an unknown number of persons) within a discussion thread.
 
-===========
 Support
 ==========
 
@@ -17,7 +16,7 @@ The following imageboards are supported at this time:
 
 More to follow.
 
-==========
+
 Usage
 ==========
 
